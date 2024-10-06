@@ -1,0 +1,12 @@
+# Secrets files
+SHELLY_CONFIG.py
+WIFI_CONFIG.py
+
+# Local dev tests
+urllib/urequest.mpy
+scratch/
+
+# Environment stuff
+.micropico
+.vscode/
+unicorn_solar.code-workspace
